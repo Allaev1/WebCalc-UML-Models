@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.3.1:1", "", "Binary operation", "EARoot/EA3/EA1/EA44.html", "175.png", "21", "0", "", "Logical diagram0","{56283295-B4C7-4020-B87C-697498A8807E}");
+tocTab[tocTab.length] = new Array("0.3.1:2", "", "BinaryOperation", "EARoot/EA3/EA1/EA47.html", "5.png", "E143", "0", "", "Class0","{2EDFF7CC-E684-4b0e-9C88-75860B63CF80}");
+tocTab[tocTab.length] = new Array("0.3.1:3", "", "BinaryOperationManager", "EARoot/EA3/EA1/EA48.html", "5.png", "E139", "0", "", "Class0","{9E70AB17-5A95-483a-91B9-72344BB29B68}");
+tocTab[tocTab.length] = new Array("0.3.1:4", "", "IBinaryOperationManager", "EARoot/EA3/EA1/EA49.html", "8.png", "E146", "0", "", "Interface0","{8193651B-7666-4e06-B7BF-5AAB046EB6FC}");
+tocTab[tocTab.length] = new Array("0.3.1:5", "", "OperationState", "EARoot/EA3/EA1/EA50.html", "247.png", "E145", "0", "", "Enumeration0","{A087C1F7-79FE-4790-B545-816F66A10640}");
+tocTab[tocTab.length] = new Array("0.3.1:6", "", "OperationType", "EARoot/EA3/EA1/EA51.html", "247.png", "E144", "0", "", "Enumeration0","{1FA44B3A-D314-4494-B6F2-3707A6F2266B}");
